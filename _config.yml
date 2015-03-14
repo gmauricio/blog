@@ -3,7 +3,7 @@ title: Just a blog
 email: gmauricio.munoz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just a blog
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: /blog
 url: "http://gmaurcio.github.io" # the base hostname & protocol for your site
 twitter_username: mauriciomunoz
 github_username:  gmauricio
